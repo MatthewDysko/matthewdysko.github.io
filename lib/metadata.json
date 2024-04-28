@@ -1,12 +1,13 @@
 {
   "vaultName": "Rift's World",
-  "lastExport": 1714340172525,
+  "lastExport": 1714340811371,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
     "Charas/Comic.canvas",
+    "Charas/heavenscale-ezreal-prestige-skin-lol-splash-art-4k-wallpaper-uhdpaper.com-690@1@n.jpg",
     "Charas/IMG_1138.png",
     "Test/Timeline.md",
     "CharasDB.md",
@@ -50,85 +51,85 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -218,33 +219,39 @@
       "dependencies": []
     },
     "Charas/Comic.canvas": {
-      "modifiedTime": 1714340172525,
-      "sourceSize": 1169,
+      "modifiedTime": 1714340811371,
+      "sourceSize": 1171,
       "exportedPath": "Charas/Comic.html",
       "dependencies": []
     },
     "Charas/IMG_1138.png": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 18951,
       "exportedPath": "Charas/IMG_1138.png",
       "dependencies": []
     },
     "Test/Timeline.md": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 1323,
       "exportedPath": "Test/Timeline.html",
       "dependencies": []
     },
     "CharasDB.md": {
-      "modifiedTime": 1714340172525,
+      "modifiedTime": 1714340811371,
       "sourceSize": 1906,
       "exportedPath": "CharasDB.html",
       "dependencies": []
     },
     "Welcome.md": {
-      "modifiedTime": 1714340172525,
-      "sourceSize": 280,
+      "modifiedTime": 1714340811371,
+      "sourceSize": 397,
       "exportedPath": "Welcome.html",
+      "dependencies": []
+    },
+    "Charas/heavenscale-ezreal-prestige-skin-lol-splash-art-4k-wallpaper-uhdpaper.com-690@1@n.jpg": {
+      "modifiedTime": 1714340811371,
+      "sourceSize": 1127766,
+      "exportedPath": "Charas/heavenscale-ezreal-prestige-skin-lol-splash-art-4k-wallpaper-uhdpaper.com-690@1@n.jpg",
       "dependencies": []
     }
   }
